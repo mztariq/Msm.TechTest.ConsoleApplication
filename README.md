@@ -16,7 +16,6 @@ basket including applicable discounts.
 | Bread          | £1.00      |
 
 
-
 ## Offers
 - Buy 2 Butter and get a Bread at 50% off 
 - Buy 3 Milk and get the 4th milk for free
@@ -35,3 +34,12 @@ While we are looking for a solution that shows a good understanding of the SOLID
 If you think your solution is too short, feel free to add some commentary to justify the decisions you have taken, if possible, by quoting books, blog posts or talks that have influenced you in the way you have coded.
 
 > Above all, code as if you're coding for yourself
+
+
+
+# Test Results
+
+![Screenshot 2021-11-22 at 01 37 04](https://user-images.githubusercontent.com/8701702/142788645-42ec9d7d-b71b-4067-a8f7-efedeb924625.jpg)
+
+
+
